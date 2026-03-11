@@ -52,6 +52,7 @@ article:nth-of-type(1) img:first-of-type{
     display:block;
     margin-bottom:12px;
     
+    
 }
 
 article:nth-of-type(2) img:first-of-type{
@@ -63,7 +64,7 @@ article:nth-of-type(2) img:first-of-type{
 }
 
 article h2{
-    font-size:24px;
+    font-size:30px;
     margin:0 0 10px 0;
     font-family: Arial, Helvetica, sans-serif;
     
@@ -85,6 +86,7 @@ aside:nth-of-type(1){
     padding:20px;
     border-left:4px solid gray;
     margin-bottom:30px;
+    border-right: solid rgba(128, 128, 128, 0.544);
 }
 
 aside:nth-of-type(2){
@@ -100,9 +102,18 @@ aside h2{
     margin:0 0 10px 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-aside p, aside li, aside h3{
-    font-size:15px;
+
+aside p:nth-of-type(1){
+ font-size:25px;
+}
+
+aside p:nth-of-type(2){
+ font-size:25px;
+}
+
+aside li, aside h3{
     margin:0 0 10px 0;
+    font-size: 20px;
 } 
 
 aside ul{
