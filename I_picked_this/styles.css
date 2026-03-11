@@ -31,3 +31,11 @@ header h1 em{
     font-size:16px;
     color:gray;
 }
+
+/*main grid*/
+main{
+    display:grid;
+    grid-template-columns: 1fr 2fr; /*right column bigger */
+    gap:40px;
+    margin-top:0px;
+}
