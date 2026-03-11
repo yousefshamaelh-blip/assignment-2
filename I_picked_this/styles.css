@@ -85,3 +85,9 @@ aside{
     border-left:4px solid orange;
     margin-bottom:30px;
 }
+
+aside h2{
+    font-size:20px;
+    margin:0 0 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
