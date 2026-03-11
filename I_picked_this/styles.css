@@ -94,4 +94,9 @@ aside h2{
 aside p, aside li, aside h3{
     font-size:15px;
     margin:0 0 10px 0;
+} 
+
+aside ul{
+    padding-left: 20px;
+    margin: 0px ;
 }
