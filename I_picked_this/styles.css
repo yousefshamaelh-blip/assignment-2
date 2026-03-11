@@ -98,9 +98,10 @@ aside:nth-of-type(2){
 
 
 aside h2{
-    font-size:20px;
+    font-size:30px;
     margin:0 0 10px 0;
     font-family: Arial, Helvetica, sans-serif;
+    color:rgb(165, 41, 41)
 }
 
 aside p:nth-of-type(1){
