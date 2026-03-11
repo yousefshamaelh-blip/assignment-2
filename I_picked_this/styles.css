@@ -11,3 +11,12 @@ body{
     background:white;
     padding:40px;
 }
+
+/*header*/
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform:lowercase;
+    letter-spacing:0;
+    font-size:80px;
+    margin:0;
+}
